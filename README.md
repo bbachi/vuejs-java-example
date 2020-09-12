@@ -1,2 +1,2 @@
-# vuejs-java-example
-Example Project to demonstrate how to develop Vuejs with Java Backend
+# angular-java-example
+This is an example project of angular with java
